@@ -2,10 +2,11 @@ vim.g.mapleader = " "
 
 -- UI config
 vim.opt.nu = true
-vim.opt.relativenumber = true
+vim.opt.rnu = true
 vim.opt.scrolloff = 8
 vim.opt.wrap = false
 vim.opt.mouse = "n"
+vim.opt.guicursor = ""
 
 -- Tab
 vim.opt.tabstop = 4
