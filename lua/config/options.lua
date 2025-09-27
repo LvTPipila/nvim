@@ -7,6 +7,7 @@ vim.opt.scrolloff = 8
 vim.opt.wrap = false
 vim.opt.mouse = "n"
 vim.opt.guicursor = ""
+vim.g.have_nerd_font = true
 
 -- Tab
 vim.opt.expandtab = true

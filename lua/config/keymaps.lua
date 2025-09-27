@@ -9,6 +9,8 @@ vim.keymap.set("n", "N", "Nzzzv")
 
 -- greates remap ever
 vim.keymap.set("x", "<leader>p", "\"_dP")
+vim.keymap.set("n", "<leader>d", "\"_dP")
+vim.keymap.set("v", "<leader>d", "\"_dP")
 
 -- next greates remaps ever
 vim.keymap.set("n", "<leader>y", "\"+y")
