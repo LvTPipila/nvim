@@ -1,5 +1,5 @@
 vim.lsp.enable({
-    'lsp_ls',
+    'lua_ls',
 })
 
 vim.diagnostic.config({

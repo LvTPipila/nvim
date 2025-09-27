@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.g.netrw_menu = 0
 
 -- UI config
 vim.opt.nu = true
